@@ -10,7 +10,7 @@ I am a Software Developer passionate about building high-performance web applica
 ## 🛠️ Core Technical Arsenal
 * **Languages:** Python, JavaScript, TypeScript
 * **Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vite
-* **Tools & Deployments:**Git, GitHub, Netlify, Vercel, Render, Railway, Figma, VS Code
+* **Tools & Deployments:** Git, GitHub, Netlify, Vercel, Render, Railway, Figma, VS Code
 
 ## 🌐 Connect With Me
 * 💼 **LinkedIn:** [Suryateja Malluru](www.linkedin.com/in/suryateja-malluru-991113222)
